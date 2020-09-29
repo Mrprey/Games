@@ -1,0 +1,2 @@
+Um pouco adiante na passagem há uma porta do lado direito. Esta porta está coberta por estranhos caracteres, em uma linguagem que você não compreende.
+(1) Você tentará abrir a porta ou continuará seguindo a passagem (2)?;1;2;3
